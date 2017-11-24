@@ -7,7 +7,7 @@ Hay que hacer dos cosas:
 3. ejecutar "python3 stream.py"
 4. crear un config.py con :
 
-consumer_key = ""
+consumer_key = "" \n
 consumer_secret =""
 access_token =""
 access_secret = ""
